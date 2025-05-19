@@ -11,4 +11,4 @@ I'm a full-stack developer and open source contributor with a stronger focus on 
 
 ### Coding Stats
 
-<img height="180px" src="https://leetcard.jacoblin.cool/jinzcdev?theme=light&border=0&radius=6&site=cn&show_rank=false" />
+<img height="180px" src="https://leetcard.jacoblin.cool/jinzcdev?theme=light&border=0&radius=5&site=cn&show_rank=false&border=1&cache=60" />
