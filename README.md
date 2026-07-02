@@ -1,13 +1,19 @@
 ## Hi there 👋
 
-I'm a full-stack developer and open source contributor with a stronger focus on backend development.
+Full-stack engineer & open source enthusiast.  
 
-- 🚀 I’m currently developing interesting MCP servers
-- 📫 Feel free to reach out!
+🎓 CS Master focusing on **Computer Vision** (image segmentation)  
+🤖 Exploring **LLMs & AI Agents** — automating everything I can  
+
+- ⚡ Using AI to ship faster, learn smarter
+- 🔭 Building interesting **MCP servers**
+- 📫 Feel free to reach out
+
+---
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats-eight-green-60.vercel.app/api?username=jinzcdev&theme=default&hide_border=false&custom_title=GitHub%20Stats&show_icons=true&cache_seconds=120" style="height: 180px; width: auto; object-fit: cover;"/> <img src="https://github-readme-stats-eight-green-60.vercel.app/api/top-langs/?username=jinzcdev&theme=default&layout=compact&hide_border=false&size_weight=1&count_weight=1" style="height: 180px; width: auto; object-fit: cover;"/>
+<img src="https://github-readme-stats-eight-green-60.vercel.app/api?username=jinzcdev&theme=default&hide_border=false&custom_title=GitHub%20Stats&show_icons=true&cache_seconds=180" style="height: 180px; width: auto; object-fit: cover;"/> <img src="https://github-readme-stats-eight-green-60.vercel.app/api/top-langs/?username=jinzcdev&theme=default&layout=compact&hide_border=false&size_weight=1&count_weight=1" style="height: 180px; width: auto; object-fit: cover;"/>
 
 ### Coding Stats
 
